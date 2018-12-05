@@ -1,0 +1,9 @@
+.hide {
+  display: none;
+}
+.alert {
+  color: red;
+}
+.bottom {
+  overflow: hidden;
+}

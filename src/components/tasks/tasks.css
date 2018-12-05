@@ -1,0 +1,18 @@
+.editIcon {
+  width: 20px;
+  cursor: pointer;
+}
+
+.task {
+  background-color: #3273DC !important
+}
+
+.red {
+  color: red;
+}
+
+.empty {
+  height: 5vh;
+  width: 5vw;
+  background-color: purple;
+}
